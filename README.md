@@ -1,10 +1,11 @@
-<center>
 
-**Hi there!**  
+## <center> **Hi there!** </center>
 I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
 
 **Education**  
-ㆍSejong University, Computer Engineering (2021 ~ Undergraduated)
+ㆍSejong Univ, Computer Engineering (2021 ~ Undergraduated)
+
+</br>
 
 [![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=110000110101)](https://solved.ac/110000110101)
 
