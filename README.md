@@ -2,15 +2,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seohyun%20Yang&fontAlignY=38&fontSize=60)
 
-**Hi there!**  
+### **Hi there!**  
 I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
 
-**Education**  
-ㆍ[Sejong Univ](http://www.sejong.ac.kr/), Computer Engineering (2021 ~ Undergraduated)
+
+[![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=110000110101)](https://solved.ac/110000110101)
 
 </br>
 
-[![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=110000110101)](https://solved.ac/110000110101)
+### **Education**  
+ㆍ[Sejong Univ](http://www.sejong.ac.kr/), Computer Engineering (2021 ~ Undergraduated)
 
 </br>
 
