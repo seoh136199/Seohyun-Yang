@@ -1,10 +1,12 @@
 <div align="center">
 
-## **Hi there!**  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seohyun%20Yang&fontAlignY=38&fontSize=60)
+
+**Hi there!**  
 I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
 
 **Education**  
-ㆍSejong Univ, Computer Engineering (2021 ~ Undergraduated)
+ㆍ[Sejong Univ](http://www.sejong.ac.kr/), Computer Engineering (2021 ~ Undergraduated)
 
 </br>
 
@@ -27,7 +29,7 @@ I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
 
 ### **📪 Contact 📪**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seoh136199@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/blog-666666?style=for-the-badge&logo=GitHub&logoColor=white)](mailto:https://seoh136199.github.io/)
+[![Blog Badge](https://img.shields.io/badge/blog-666666?style=for-the-badge&logo=GitHub&logoColor=white)](https://seoh136199.github.io/)
 
 </br>
 
