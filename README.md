@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hi there!**  
+## **Hi there!**  
 I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
 
 **Education**  
