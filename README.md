@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seohyun%20Yang&fontAlignY=38&fontSize=60)
 
 ### **Hi there!**  
-I'm Seohyun Yang, interested in `Problem Solving` and `Game development`.
+I'm Seohyun Yang, interested in `Problem Solving`, `Game development` and `Web development`.
 
 
 [![solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=110000110101)](https://solved.ac/110000110101)
