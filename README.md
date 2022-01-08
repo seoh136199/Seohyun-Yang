@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seohyun%20Yang&fontAlignY=38&fontSize=60)
 
-### **Hi there!**  
+## **Hi there!**  
 I'm Seohyun Yang, interested in `Problem Solving`, `Game development` and `Web development`.
 
 
